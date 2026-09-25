@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=ELAIYASRI&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=63"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Elaiyasri</h1>
 
