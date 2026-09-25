@@ -5,7 +5,7 @@
 <h3 align="center">
 Electronics & Communication Engineering Student | Embedded Systems | Software Development | VLSI
 </h3>
-
+<a align="center">
 <a href="mailto:127004070@sastra.ac.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
